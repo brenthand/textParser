@@ -1,0 +1,10 @@
+01O	1	30		300	and to every beast of the earth, and to every bird of the heavens, and to everything that creepeth upon the earth, wherein there is life, [I have given] every green herb for food: and it was so.
+01O	1	31		310	And God saw everything that he had made, and, behold, it was very good. And there was evening and there was morning, the sixth day.
+01O	2	1		320	And the heavens and the earth were finished, and all the host of them.
+01O	2	2		330	And on the seventh day God finished his work which he had made; and he rested on the seventh day from all his work which he had made.
+01O	2	3		340	And God blessed the seventh day, and hallowed it; because that in it he rested from all his work which God had created and made.
+02O	3	24		15790	And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
+02O	4	25		15800	And God saw the children of Israel, and God took knowledge [of them].
+02O	5	1		15810	Now Moses was keeping the flock of Jethro his father-in-law, the priest of Midian: and he led the flock to the back of the wilderness, and came to the mountain of God, unto Horeb.
+02O	6	2		15820	And the angel of Jehovah appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.
+02O	6	3		15830	And Moses said, I will turn aside now, and see this great sight, why the bush is not burnt.
