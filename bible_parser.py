@@ -17,7 +17,7 @@ for line in open('book_names.txt', 'r'):
 
 
 #parse file line by line to create html file
-with open('asv.txt', 'r') as f:
+with open('bible_snippet.txt', 'r') as f:
 	for line in f:
 	    line = line.split(None, 4)
 	    book = line[0]
@@ -54,11 +54,11 @@ with open('asv.txt', 'r') as f:
 	    
 	    verse = line[2]
 	    text = line[4]
-	    html_bible += '<p class="verse" id="' + verse + '">' + text + '</p>\n' 
+	    html_bible += '<p class="verse" id="' + verse + '"><sup>' + verse + '</sup>' + text + '</p>\n' 
 
 html_bible += "</body>\n</html>"
 
 #print html_bible
 
-open("bible.html", "w").write(html_bible)
+open("bible.html", "w+").write(html_bible)
 
